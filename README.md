@@ -1,4 +1,4 @@
-# INITIAL PREVIEW and APP LAYOUT (conflict driven UI)
+# INITIAL APP PREVIEW and LAYOUT (conflict driven UI)
 
 ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/08d327b4-e428-46b0-92b8-b6b5b7494abe)
 
