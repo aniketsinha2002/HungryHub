@@ -29,3 +29,10 @@
 
  ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/8338255a-ef98-48a6-a661-34d994af446b)
 
+
+ ##
+ UPDATE: 02
+
+ ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/3342ea20-f4b8-4978-9ba1-6ff2804111ce)
+
+
