@@ -36,4 +36,8 @@
 
  ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/3342ea20-f4b8-4978-9ba1-6ff2804111ce)
 
+ ## UI CHANGES | UPDATE: 05 
+ ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/b1620b80-efc6-417d-9075-3568bb139df6)
+
+
 
