@@ -39,5 +39,7 @@
  ## UI CHANGES | UPDATE: 05 
  ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/b1620b80-efc6-417d-9075-3568bb139df6)
 
+ ## ACCORDIANS | UPDATE: 06
+ ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/d86d2389-5b68-4e87-9baf-3272eb3add0f)
 
 
