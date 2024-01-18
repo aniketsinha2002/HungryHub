@@ -1,4 +1,11 @@
-## IDEATION PHASE
+## THE LIVE LINK WON'T WORK ⚠️⚠️
+
+The live link won't work as the project is utilizing Swiggiy's live API, and it is showing "unauthorized" even after allowing CORS. Therefore, it won't display resturants data live. I have attached a video demonstrating the working functionalities hosted from localhost.
+
+> Video Demonstration Link: https://www.awesomescreenshot.com/video/24161633?key=a1a118d737cf20c1a2e9cc34c7070360
+
+
+## IDEATION PHASE 
 
   * HEADER
      *  Logo
