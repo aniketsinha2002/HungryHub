@@ -30,7 +30,7 @@ const Body = () => {
 
         // Ensure the data structure is as expected
         //OPTIONAL CHAINING
-        const restaurants = json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants || [ ];
+        const restaurants = json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants || [ ];
 
         console.log(json?.data);
         // console.log(mockData);

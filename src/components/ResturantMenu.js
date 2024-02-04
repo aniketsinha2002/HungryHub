@@ -63,7 +63,7 @@ const RestaurantMenu = () => {
   console.log(categories);
 
   return (
-    <div className="text-center">
+    <div className="text-center font-body">
       <h1 className="font-bold my-6 text-2xl">{name}</h1>
       <p className="font-bold text-lg"> 
         {cuisines.join(', ')} - {costForTwoMessage}

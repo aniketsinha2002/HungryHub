@@ -1,8 +1,10 @@
 ## THE LIVE LINK WON'T WORK ⚠️⚠️
 
-The live link won't work as the project is utilizing Swiggiy's live API, and it is showing "unauthorized" even after allowing CORS. Therefore, it won't display resturants data live. I have attached a video demonstrating the working functionalities hosted from localhost.
+The live link may not work as the project is utilizing Swiggiy's live API, and it keeps changing time to time so the code breaks. Therefore, it won't display resturants data live.
 
-> Video Demonstration Link: https://www.awesomescreenshot.com/video/24161633?key=a1a118d737cf20c1a2e9cc34c7070360
+Therefore I have attached a video demonstrating the working functionalities hosted from localhost.
+
+> Video Demonstration Link: https://www.loom.com/share/38f40a7fffda4e459d29446e215cb506?sid=6c9a3382-4ae2-447c-a4bd-e2b7870800a1
 
 
 ## IDEATION PHASE 
@@ -50,3 +52,26 @@ The live link won't work as the project is utilizing Swiggiy's live API, and it 
  ![image](https://github.com/aniketsinha2002/HungryHub/assets/97850511/d86d2389-5b68-4e87-9baf-3272eb3add0f)
 
 
+## TYPES OF TESTING
+   - Unit Testing
+   - Integration Testing
+   - End to End - e2e Testing
+
+## SETTING UP TESTING IN OUR APP
+  - Install React Testing Liberary
+  - Install Jest
+  - Install Babel Dependencies
+  - Configure Babel
+  - Configure Parcel Config file to disable default Babel transpilation
+  - Jest Configuration (npx jest --init)
+  - Install jsdom liberary 
+  - Install @babel/preset-react to make JSX work in test cases
+  - Include @babel/preset-react inside my Babel config
+  - Install @testing-library/jest-dom
+
+ ## FOLDER STRUCTURE FOR TESTING
+   __tests__
+   Headers.test.js
+   Headers.test.ts
+   Headers.spec.js
+   Headers.spec.ts

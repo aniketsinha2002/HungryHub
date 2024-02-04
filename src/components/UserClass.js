@@ -32,20 +32,22 @@ export default class userClass extends Component {
     
     render() {
       return (
-        <div className="user-card">
-          <div className='flex'>
-            Logged in User :
-            <UserContext.Consumer>
-              {
-                ({loggedInUser}) => <h1 className='px-3 font-bold'>{loggedInUser}</h1>
-              }
-            </UserContext.Consumer>
+      <div className="user-card bg-white px-4 rounded-lg shadow-md text-center">
+        <div className="mb-4 flex flex-row justify-center">
+          Logged in User : {" "}
+          <UserContext.Consumer>
+            {({ loggedInUser }) => <h1 className="font-bold">{loggedInUser}</h1>}
+          </UserContext.Consumer>
           </div>
-          <h1>Name: {this.state.userInfo.name}</h1>
-          <h1>Location: {this.state.userInfo.location}</h1>
-          <img src={this.state.userInfo.avatar_url} alt="" />
-           
-         </div>
+          <h1 className='p-2'>Website Developed By -</h1>
+          <div className='flex flex-row justify-center'>
+            <h1 className="mb-2 text-lg font-bold">{this.state.userInfo.name}</h1>
+            <h1 className="mb-2 text-lg px-2"> | {this.state.userInfo.location}</h1>
+          </div>
+        
+        <img className="mx-auto rounded-lg" src={this.state.userInfo.avatar_url} alt="User Avatar" />
+      </div>
+
     )
   }
 }

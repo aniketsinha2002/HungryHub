@@ -6,7 +6,7 @@ const ResturantCard = ({ resData }) => {
     const { cloudinaryImageId, name, cuisines, avgRating, costForTwo, sla } = resData?.info; //optional chaining
      
     return (
-        <div className="m-5 p-2 w-[231px] bg-0 flex flex-col transition duration-150 hover:scale-[.9]">
+        <div className="m-5 p-2 w-[231px] bg-0 flex flex-col transition duration-150 hover:scale-[.9] font-body text-gray-600">
             <img className="w-[250px] h-[170px] rounded-2xl" src={CDN_URL + cloudinaryImageId} alt="" />
             <h3 className="font-semibold py-2 text-lg text-[#333333] whitespace-nowrap overflow-ellipsis overflow-hidden">{name}</h3>
             <h4 className="font-bold text-lg text-[#333333]">❇️{avgRating} • {sla.deliveryTime} mins</h4>
