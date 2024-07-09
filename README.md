@@ -10,7 +10,7 @@ Therefore I have attached a video demonstrating the working functionalities.
 
 > Video Demonstration Link: https://www.loom.com/share/38f40a7fffda4e459d29446e215cb506?sid=6c9a3382-4ae2-447c-a4bd-e2b7870800a1
 
-## WEB PERFORMANCE && OPTIMIZATION
+## WEB PERFORMANCE && OPTIMIZATION 😮
 
 Achieved a page load time of just 117ms. (See attached screenshot)
 ![alt text](<Screenshot 2024-07-09 210035.png>)
