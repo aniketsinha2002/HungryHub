@@ -6,12 +6,12 @@ The **LIVE LINK may NOT work** as **the project is utilizing Swiggiy's live API*
 
 Therefore, it won't display resturants data live. Therefore I have attached a video demonstrating the working functionalities. [SEE VIDEO DEMO HERE](https://www.loom.com/share/38f40a7fffda4e459d29446e215cb506?sid=6c9a3382-4ae2-447c-a4bd-e2b7870800a1)
 
-## WEB PERFORMANCE && OPTIMIZATION 😮😮😮
-
-Achieved a page load time of just 117ms. (See attached screenshot)
-![alt text](<Screenshot 2024-07-09 210035.png>)
+# WEB PERFORMANCE && OPTIMIZATION 😮😮😮
 
 Goal: To enhance the website's performance, ensuring it loads quickly and provides a smooth user experience.
+
+Achieved a **page load time** of just **117ms** (dev tools browser). (See attached screenshot)
+![alt text](<Screenshot 2024-07-09 210035.png>)
 
 ### Generated Report: ⭐
 
@@ -38,12 +38,12 @@ After implementing various optimization strategies, a detailed performance repor
 
 ### Implemented Strategies: ⭐
 
-_Redux Store for Caching:_ Cached frequently used data across the app.
-_Code Splitting:_ Divided code into smaller chunks for faster initial load times.
-_Lazy Loading with Infinite Scroll:_ Efficiently loaded restaurant data as users scroll.
-_Code Optimization:_ Streamlined and optimized the codebase for better performance.
-_Conditional Rendering with Shimmer UI:_ Enhanced user experience by showing a loading indicator during data fetching, improving app responsiveness.
-_Efficient JSX Rendering:_ Rendered components conditionally based on data, reducing unnecessary load on the browser.
+- **Redux Store for Caching:** Cached frequently used data across the app.
+- **Code Splitting:** Divided code into smaller chunks for faster initial load times.
+- **Lazy Loading with Infinite Scroll:** Efficiently loaded restaurant data as users scroll.
+- **Code Optimization:** Streamlined and optimized the codebase for better performance.
+- **Conditional Rendering with Shimmer UI:** Enhanced user experience by showing a loading indicator during data fetching, improving app responsiveness.
+- **Efficient JSX Rendering:** Rendered components conditionally based on data, reducing unnecessary load on the browser.
 
 ## IDEATION PHASE
 
